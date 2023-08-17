@@ -27,3 +27,11 @@ Python calculator application built using Python and Tkinter.
     - Use the operation buttons (+, -, *, /) to perform calculations.
     - Press the "=" button to see the result of the calculation.
     - Press the "C" button to clear the input field.
+  
+5. **Screenshots**
+
+   ![Screenshot 1](https://raw.githubusercontent.com/nsrilakshmi5/calculator_app/main/ss1.png)
+
+   ![Screenshot 1](https://raw.githubusercontent.com/nsrilakshmi5/calculator_app/main/ss2.png)
+
+   
