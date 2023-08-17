@@ -1,4 +1,4 @@
-# Simple Calculator Application
+# Calculator Application
 
 Python calculator application built using Python and Tkinter.
 
